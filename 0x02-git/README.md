@@ -1,4 +1,4 @@
 
-## 1. Repo-session
+## 0x02. Git Tasks
 
-- This is the first assignment for the task named above
+- Includes solutions to the tasks assigned concerning git
